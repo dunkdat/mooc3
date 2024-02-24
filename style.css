@@ -1,0 +1,14 @@
+header{
+    background-color:bisque;
+    height: 300px;
+}
+div{
+    background-color:bisque;
+}
+img{
+    height: 200px;
+}
+img:hover, img:focus{
+    opacity: 1;
+    border: 2px solid;
+}
